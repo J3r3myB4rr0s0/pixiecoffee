@@ -1,0 +1,97 @@
+export default {
+  // Navigation
+  'nav.home': 'Home',
+  'nav.booking': 'Booking',
+  'nav.classes': 'Classes',
+  'nav.shop': 'Shop',
+  'nav.about': 'About Us',
+  'nav.contact': 'Contact',
+  
+  // Home Page
+  'home.hero.title': 'Where Play Comes to Life',
+  'home.hero.subtitle': 'A magical space for children and parents in Australia',
+  'home.hero.cta': 'Book a Playdate',
+  'home.intro.title': 'Welcome to PixieCoffeePlace',
+  'home.intro.text': 'A unique play café where imagination, learning and fun blend perfectly. We offer a safe, inspiring environment for children to play, learn and socialize.',
+  'home.intro.button': 'Learn more about us',
+  'home.intro.fun': 'A world of fun! 🎈',
+  'home.features.title': 'Our Spaces',
+  'home.features.subtitle': 'Discover everything we have to offer at PixieCoffeePlace',
+  'home.features.play.title': 'Play Area',
+  'home.features.play.text': 'Our interactive play zones are designed to stimulate creativity and imagination',
+  'home.features.classes.title': 'Classes & Workshops',
+  'home.features.classes.text': 'Engaging activities for different age groups led by expert educators',
+  'home.features.cafe.title': 'Family Café',
+  'home.features.cafe.text': 'Delicious and nutritious options for both children and parents',
+  'home.cta.title': 'Ready for an Unforgettable Experience?',
+  'home.cta.text': 'Book your visit today and create lasting memories with your little ones',
+  'home.cta.button': 'Book Now',
+  'home.gallery.title': 'Magical Moments',
+  'home.gallery.subtitle': 'Take a look at the fun that awaits your little ones',
+  'home.testimonials.title': 'What Our Visitors Say',
+  'home.testimonials.subtitle': 'Experiences from families who have enjoyed PixieCoffeePlace',
+  'home.testimonials.1.text': 'My daughter didnt want to leave. The staff is very friendly and the facilities are spotless. Well be back soon!',
+  'home.testimonials.1.author': 'Laura M.',
+  'home.testimonials.1.role': 'Sofia mom, 4 years old',
+  'home.testimonials.2.text': 'My son birthday party was perfect. Everything was very well organized and the kids had a great time.',
+  'home.testimonials.2.author': 'Carlos P.',
+  'home.testimonials.2.role': 'Lucas dad, 6 years old',
+  'home.testimonials.3.text': 'The music classes are excellent. My baby enjoys them a lot and has improved his coordination and sociability.',
+  'home.testimonials.3.author': 'Marta G.',
+  'home.testimonials.3.role': 'Joaquín mom, 18 months',
+  
+  // Booking Page
+  'booking.title': 'Book Your Visit',
+  'booking.subtitle': 'Reserve your playdate or celebrate special moments with us',
+  'booking.regular.title': 'Regular Visit',
+  'booking.regular.text': 'Book a regular play session for your little ones',
+  'booking.birthday.title': 'Birthday Party',
+  'booking.birthday.text': 'Celebrate their special day with a magical party experience',
+  'booking.special.title': 'Special Events',
+  'booking.special.text': 'Custom events for groups, schools or special occasions',
+  
+  // Classes Page
+  'classes.title': 'Sensory Play Workshops - Weekdays Upstairs in Our Private Function Room',
+  'classes.subtitle': 'Discover our range of fun and educational activities',
+  'classes.filter.all': 'All Classes',
+  'classes.filter.age': 'Filter by Age',
+  'classes.filter.type': 'Filter by Type',
+  'classes.age.0-2': '0-2 years',
+  'classes.age.3-5': '3-5 years',
+  'classes.age.6-8': '6-8 years',
+  'classes.type.movement': 'Movement',
+  'classes.type.sensory': 'Sensory',
+  'classes.type.creative': 'Creative',
+  'classes.type.music': 'Music',
+  'classes.button': 'Book Class',
+  
+  // Shop Page
+  'shop.title': 'PixieCoffeePlace Shop',
+  'shop.subtitle': 'Take a piece of PixieCoffeePlace magic home with you',
+  'shop.button': 'View on Shopify',
+  
+  // About Page
+  'about.title': 'About Us',
+  'about.subtitle': 'The story behind PixieCoffeePlace',
+  'about.mission.title': 'Our Mission',
+  'about.mission.text': 'To create a joyful, safe environment where children can learn through play while parents enjoy quality time',
+  'about.team.title': 'Meet Our Team',
+  
+  // Contact Page
+  'contact.title': 'Contact Us',
+  'contact.subtitle': "We'd love to hear from you!",
+  'contact.address': 'Street 123, Australia',
+  'contact.phone': '+54 11 2345-6789',
+  'contact.email': 'hi@pixiecoffeeplace.com',
+  'contact.hours': 'Open Monday to Saturday, 9am - 7pm',
+  'contact.form.name': 'Name',
+  'contact.form.email': 'Email',
+  'contact.form.message': 'Message',
+  'contact.form.submit': 'Send Message',
+  
+  // Footer
+  'footer.follow': 'Follow us',
+  'footer.rights': 'All rights reserved',
+  'footer.privacy': 'Privacy Policy',
+  'footer.terms': 'Terms of Service'
+};
