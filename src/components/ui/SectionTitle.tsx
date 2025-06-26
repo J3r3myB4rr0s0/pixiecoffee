@@ -29,16 +29,20 @@ const SectionTitle: React.FC<SectionTitleProps> = ({
       className={titleClasses}
     >
       {title.split('').map((char, index) => (
-        <span
-          key={index}
-          className="inline-block"
-          style={{
-            color: `hsl(${(index * 360) / title.length}, 100%, 50%)`,
-            transition: 'color 0.3s ease'
-          }}
-        >
-          {char}
-        </span>
+        char === ' ' ? (
+          <span key={index} className="inline-block" style={{ width: '0.6em' }}>&nbsp;</span>
+        ) : (
+          <span
+            key={index}
+            className="inline-block"
+            style={{
+              color: `hsl(${(index * 360) / title.length}, 100%, 50%)`,
+              transition: 'color 0.3s ease'
+            }}
+          >
+            {char}
+          </span>
+        )
       ))}
     </motion.h2>
   ) : (

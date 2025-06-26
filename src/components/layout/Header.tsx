@@ -34,7 +34,7 @@ const Header: React.FC = () => {
     >
       <div className="container-custom flex items-center justify-between">
         <NavLink to="/" className="z-50">
-          <Logo size={isScrolled ? 'small' : 'default'} />
+          <Logo size="small" />
         </NavLink>
         
         {/* Desktop Navigation */}
